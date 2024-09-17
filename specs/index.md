@@ -7,3 +7,8 @@ Cet aventage qu'offre VirDesk est recherché par de nombreux utilisateurs, notam
 d'une immersion plus profonde au sein du jeu.
 La connexion possible en local permettra ainsi une très bonne réactivité afin d'éviter les latences liées aux connexions wifi qui dégradent
 le partage d'écran.
+
+Pourquoi créer VirDesk ?
+Sous quelles technos ?
+Combien de plateformes et pourquoi ?
+Quelles sont les cibles de VirDesk ?
