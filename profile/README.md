@@ -2,4 +2,4 @@
 
 Self host blablablabla
 
-[Project Specifications](specs/index.md)
+[Project Specifications](../specs/index.md)
