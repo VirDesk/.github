@@ -9,6 +9,13 @@ La connexion possible en local permettra ainsi une très bonne réactivité afin
 le partage d'écran.
 
 Pourquoi créer VirDesk ?
+
+permettre un accès à distance : Offrir aux utilisateurs la possibilité de contrôler leurs pc à distance avec une faible latence.
+Assurer une haute fréquence : Garantir une performance optimale pour les opérations en temps réel.
+Faciliter l'utilisation : Fournir une interface utilisateur intuitive et réactive.
+
+
+
 Sous quelles technos ?
 Combien de plateformes et pourquoi ?
 Quelles sont les cibles de VirDesk ?
