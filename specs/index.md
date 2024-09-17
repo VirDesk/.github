@@ -12,3 +12,7 @@ Pourquoi créer VirDesk ?
 Sous quelles technos ?
 Combien de plateformes et pourquoi ?
 Quelles sont les cibles de VirDesk ?
+
+Quels sont les objectifs de VirDesk ?
+Quel est le rôle du logiciel ?
+Hebergement ? 
